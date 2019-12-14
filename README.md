@@ -8,6 +8,7 @@
 
 - CNN train result  
 ![CNN_result](https://user-images.githubusercontent.com/57524159/70847887-0b8a2600-1ead-11ea-84eb-4d690c976093.PNG)  
-- CNN test result
+- CNN test result  
+![test_result](https://user-images.githubusercontent.com/57524159/70847958-3d4fbc80-1eae-11ea-93f4-ee6c28b8a2f6.PNG)
 
 
